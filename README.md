@@ -31,4 +31,4 @@ Ce projet vise à prédire les prix des maisons en fonction de plusieurs caract�
 ## Installation et Exécution
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-utilisateur/ton-depot.git
+   git clone https://github.com/Soilah98/projet_data_scientist.git
