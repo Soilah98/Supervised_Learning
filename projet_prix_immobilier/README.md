@@ -14,6 +14,7 @@ Ce projet vise à prédire les prix des maisons en fonction de plusieurs caract�
   - Encoding des variables catégorielles.
   - Sélection des caractéristiques pertinentes.
   - Normalisation des données pour assurer la convergence des algorithmes.
+  - Construction des Pipeline
 
 - **Modélisation**
   - Choix de la métrique d'évaluation adaptée.
