@@ -28,7 +28,7 @@ Ce projet vise à prédire les prix des maisons en fonction de plusieurs caract�
 
 **Type de variables**   
 - variable discretes : OverallQual, GarageCars, FullBath, TotRmsAbvGrd, Fireplaces   
-- variable categorielles : KitchenQual, Neighborhood, ExterQual (les variables "KitchenQual" et "ExterQual" semble être correlées)  
+- variable categorielles : KitchenQual, Neighborhood, ExterQual 
 - variables Années :  YearBuilt, YearRemodAdd  
 - variable continue : GrLivArea	TotalBsmtSF	1stFlrSF, GarageArea, LotArea, 	SalePrice
   
