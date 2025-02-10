@@ -1,34 +1,26 @@
-Projet 1
-# Prédiction des Prix de l'Immobilier 🏡
+## Portfolio Data Science
+Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’y regroupe différents projets réalisés autour de l’analyse de données, de la visualisation, de la modélisation
 
-## Description
-Ce projet vise à prédire les prix des maisons en fonction de plusieurs caractéristiques (surface, emplacement, etc.) en utilisant un modèle de machine learning. L’objectif est d’identifier les facteurs clés influençant le prix et d’optimiser la précision des prédictions.
+### Compétences Développées
+- **Manipulation et Préparation des Données**
+   - Nettoyage, traitement des valeurs manquantes et anomalies
+   - Analyse exploratoire (statistiques univariées et bivariées)
+   - Tests d’hypothèses et prise de décision basée sur les résultats
+- **Mise en Place de Pipelines de Données**
+    - Encodage des variables catégorielles
+    - Sélection des caractéristiques pertinentes
+    - Normalisation et standardisation des données
+- **Modélisation et Évaluation**
+  - Développement de modèles de classification et régression
+  - Évaluation des modèles avec différentes métriques (MAE, RMSE, R², précision, recall, F1-score)
+  - Optimisation des hyperparamètres pour améliorer les performances
+- **Interprétation et Communication**
+  - Visualisation des résultats avec Matplotlib et Seaborn
+  - Construction d’intervalle de confiance pour l’interprétation des prédictions
+  - Synthèse et conclusion des résultats obtenus
 
-## Méthodologie
-- **Analyse des données**
-  - Nettoyage des données pour traiter les valeurs manquantes et les anomalies.
-  - Analyse exploratoire avec statistiques univariées et bivariées.
-  - Réalisation de tests statistiques pour valider les hypothèses.
-  
-- **Prétraitement**
-  - Encoding des variables catégorielles.
-  - Sélection des caractéristiques pertinentes.
-  - Normalisation des données pour assurer la convergence des algorithmes.
-
-- **Modélisation**
-  - Choix de la métrique d'évaluation adaptée.
-  - Analyse du problème d'overfitting vs underfitting.
-  - Amélioration et optimisation du modèle à travers des itérations.
- 
-- **Resultats**
-  Le meilleur modele est la regression ridge avec un R2 de 0.88 et un MAE de 18600k
-
-## Technologies utilisées
-- Python (Pandas, Scikit-Learn, Matplotlib)
-- Jupyter Notebook
-- Visualisation avec Seaborn
-
-## Installation et Exécution
-1. Clone le dépôt :
-   ```bash
-   git clone https://github.com/Soilah98/projet_data_scientist.git
+### Technologies et Outils
+- Langages : **Python**
+- Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**
+- Environnement : **Jupyter Notebook, Google Colab**
+- Outils de versioning : **Git & GitHub**
