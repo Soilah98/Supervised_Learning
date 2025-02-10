@@ -98,3 +98,4 @@ Les données proviennent de Kaggle : [[Lien vers le dataset](https://www.kaggle.
 ---
 
 ## Conclusion 
+Notre objectif était de maximiser la détection des clients susceptibles de résilier leur contrat. Pour cela, notre modèle atteint un **recall de 81 %**, ce qui signifie qu'il identifie correctement 81 % des clients churners présents dans notre jeu de données. De plus, il affiche une **précision de 77%**, indiquant que parmi les clients prédits comme churners, 77 % le sont réellement.
