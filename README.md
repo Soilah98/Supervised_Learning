@@ -24,3 +24,9 @@ Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’
 - Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**
 - Environnement : **Jupyter Notebook, Google Colab**
 - Outils de versioning : **Git & GitHub**
+
+### Contact
+Si vous avez des questions ou souhaitez échanger sur ces projets, vous pouvez me contacter sur LinkedIn ou par email.  
+LinkdeIn : [LinkeIn](https://www.linkedin.com/in/ibrahim-soilahoudine-5a166225b/)    
+Email : ibrahimsoilah7@gmail.com
+
