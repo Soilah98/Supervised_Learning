@@ -1,6 +1,13 @@
-## Portfolio Data Science
+# Portfolio Data Science
 Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’y regroupe différents projets réalisés autour de l’analyse de données, de la visualisation, de la modélisation
-
+## Projets 
+**Apprentissage Supervisé**
+   - Prédiction de désabonnement des clients
+   - Prediction du prix de l'immobilier
+     
+**Apprentissage Non supervisé**
+   - Segmentation du clientelle
+     
 ### Compétences Développées
 - **Manipulation et Préparation des Données**
    - Nettoyage, traitement des valeurs manquantes et anomalies
@@ -11,9 +18,15 @@ Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’
     - Sélection des caractéristiques pertinentes
     - Normalisation et standardisation des données
 - **Modélisation et Évaluation**
-  - Développement de modèles de classification et régression
-  - Évaluation des modèles avec différentes métriques (MAE, RMSE, R², précision, recall, F1-score)
-  - Optimisation des hyperparamètres pour améliorer les performances
+  - Développement de modèles de ***classification et régression***
+       - Évaluation des modèles avec différentes métriques (MAE, RMSE, R², précision, recall, F1-score)
+       - Optimisation des hyperparamètres pour améliorer les performances
+  - **Clustering**
+    - **Méthodes et Techniques utilisées**:
+         - KMeans : Algorithme de clustering pour regrouper les données.  
+         - TSNE : Réduction de dimension pour faciliter la visualisation des clusters.  
+         - Méthode du Coude : Technique permettant de déterminer le nombre optimal de clusters.  
+         - Indice de Silhouette : Mesure de la qualité et de la cohérence des clusters.  
 - **Interprétation et Communication**
   - Visualisation des résultats avec Matplotlib et Seaborn
   - Construction d’intervalle de confiance pour l’interprétation des prédictions
@@ -21,7 +34,7 @@ Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’
 
 ### Technologies et Outils
 - Langages : **Python**
-- Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**
+- Bibliothèques : **Pandas, NumPy, Matplotlib, Seaborn, Kmeans, PCA, TSNE, Scikit-learn**
 - Environnement : **Jupyter Notebook, Google Colab**
 - Outils de versioning : **Git & GitHub**
 
