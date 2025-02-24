@@ -2,7 +2,7 @@
 Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’y regroupe différents projets réalisés autour de l’analyse de données, de la visualisation, de la modélisation
 ## Projets 
 **Apprentissage Supervisé**
-   - Prédiction de désabonnement des clients
+   - [Prédiction de désabonnement des clients](https://github.com/Soilah98/Supervised_Learning/tree/main/projet_client_churn)
    - Prediction du prix de l'immobilier
      
 **Apprentissage Non supervisé**
