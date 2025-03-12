@@ -1,4 +1,4 @@
-# 📌 <span style="color:orange;"> Objectif du Projet  
+# <span style="color:orange;"> Objectif du Projet  
 Développer un modèle de **machine learning** pour identifier les **clients à risque de désabonnement** en fonction de leurs caractéristiques **démographiques, financières et comportementales**.  
 
 ## Source des Données  
@@ -44,7 +44,7 @@ Les données proviennent de Kaggle : [[Lien vers le dataset](https://www.kaggle.
 
 ## Méthodologie  
 
-### 1️⃣ Analyse Exploratoire  
+### 1 Analyse Exploratoire  
 
 ####  **Analyse de la Structure des Données**  
 - **Variable cible** : `Churn` (*Yes* / *No*)  
@@ -72,14 +72,14 @@ Les données proviennent de Kaggle : [[Lien vers le dataset](https://www.kaggle.
 
 ---
 
-### 2️⃣ Préprocessing des Données  
+### 2️ Préprocessing des Données  
 - **Encodage** des variables catégoriques  
 - **Normalisation** des variables numériques  
 - **Sélection des features pertinentes**  
 
 ---
 
-### 3️⃣ Modélisation et Évaluation  
+### 3️ Modélisation et Évaluation  
 
 #### **Modèles Testés**  
 -  **Random Forest**  
