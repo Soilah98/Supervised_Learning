@@ -1,5 +1,5 @@
 Projet 1
-# Prédiction des Prix de l'Immobilier 🏡
+# Prédiction des Prix de l'Immobilier 
  
 ## Description
 Ce projet vise à prédire les prix des maisons en fonction de plusieurs caractéristiques (surface, emplacement, etc.) en utilisant un modèle de machine learning. L’objectif est d’identifier les facteurs clés influençant le prix et d’optimiser la précision des prédictions.
