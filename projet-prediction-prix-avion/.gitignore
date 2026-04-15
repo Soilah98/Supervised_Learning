@@ -1,0 +1,8 @@
+.python-version
+*.swp
+__pycache__/
+*.pyc
+.venv/
+.env
+Clean_Dataset/
+*.csv
