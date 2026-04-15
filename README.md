@@ -4,9 +4,10 @@ Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’
 **Apprentissage Supervisé**
    - [Prédiction de désabonnement des clients](https://github.com/Soilah98/Supervised_Learning/tree/main/projet_client_churn)
    - [Prediction du prix de l'immobilier](https://github.com/Soilah98/Supervised_Learning/tree/main/projet_prix_immobilier)
+   - [prediction du prix d'avion](projet-prediction-prix-avion/projet-prediction-prix-avion/src/projet_prediction_prix_avion/flight.ipynb) 
      
 ### Compétences Développées
-- **Manipulation et Préparation des Données**
+- **Analyse et Préparation des Données**
    - Nettoyage, traitement des valeurs manquantes et anomalies
    - Analyse exploratoire (statistiques univariées et bivariées)
    - Tests d’hypothèses et prise de décision basée sur les résultats
@@ -27,8 +28,11 @@ Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’
 ### Technologies et Outils
 - Langages : **Python**
 - Bibliothèques : **Pandas, NumPy, Matplotlib, SeabornScikit-learn**
-- Environnement : **Jupyter Notebook, Google Colab**
+- Data & Analyse  : **Jupyter Notebook, Google Colab**
 - Outils de versioning : **Git & GitHub**
+- systeme : Linux(Ubuntu via WSL sur windows)
+- Environnements de développement : **VS code, VIM**
+- Gestion d’environnements : **pyenv et poetry**
 
 ### Contact
 Si vous avez des questions ou souhaitez échanger sur ces projets, vous pouvez me contacter sur LinkedIn ou par email.  
