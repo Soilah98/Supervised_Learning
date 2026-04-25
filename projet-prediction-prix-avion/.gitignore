@@ -6,3 +6,7 @@ __pycache__/
 .env
 Clean_Dataset/
 *.csv
+artifacts/
+*.joblib
+*.pkl
+data/
