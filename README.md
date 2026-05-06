@@ -2,10 +2,9 @@
 Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. J’y regroupe différents projets réalisés autour de l’analyse de données, de la visualisation et de la modélisation
 ## Projets 
 **Apprentissage Supervisé**
-   - [Prédiction de désabonnement des clients](https://github.com/Soilah98/Supervised_Learning/tree/main/projet_client_churn)
-   - [Prediction du prix de l'immobilier](https://github.com/Soilah98/Supervised_Learning/tree/main/projet_prix_immobilier)
-   - [prediction du prix d'avion](projet-prediction-prix-avion/projet-prediction-prix-avion/src/projet_prediction_prix_avion/flight.ipynb) 
-     
+   - [prediction du prix d'avion](https://github.com/Soilah98/Machine-Learning-Prediction/tree/main/projet-prediction-prix-avion/notebooks) 
+   - [Prédiction de désabonnement des clients](https://github.com/Soilah98/Machine-Learning-Prediction/tree/main/projet_client_churn)
+    
 ### Compétences Développées
 - **Analyse et Préparation des Données**
    - Nettoyage, traitement des valeurs manquantes et anomalies
